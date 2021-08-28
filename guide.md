@@ -9,6 +9,8 @@ Some Text
 Help 1
 ## Sub Header 3
 
+### Actual Dart code test
+
 ```dart
 const logInViewRoute = '/signIn';
 const registerViewRoute = '/register';
