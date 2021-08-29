@@ -6,3 +6,5 @@ The main aim of this doc is to provide team socrates with a overview of the vari
 
 Please do ensure that you read through and follow this guides appropriately.
 Thank You.
+
+[Click this to go to the main project repo](https://github.com/zurichat/zc_app)
