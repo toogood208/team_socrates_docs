@@ -25,7 +25,7 @@ The openUrl function will be used for opening URL links
 
 **Usage**
 ```dart
-import 'lib\utilities\utilities.dart';
+import 'lib/utilities/utilities.dart';
 
 openUrl("https://google.com")
 ```
@@ -40,7 +40,7 @@ ImageProvider makeNetworkImage(String? link)
 
 **Usage**
 ```dart
-import 'lib\utilities\utilities.dart';
+import 'lib/utilities/utilities.dart';
 
 makeNetworkImage("https://google.com")
 ```
